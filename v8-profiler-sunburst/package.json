@@ -1,0 +1,25 @@
+{
+  "name": "profilev8",
+  "version": "1.0.0",
+  "description": "helper script for v8-profiler",
+  "main": "profilev8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkoretic/node-profiling.git"
+  },
+  "keywords": [
+    "node",
+    "profiling",
+    "v8",
+    "cpu"
+  ],
+  "author": "Petar Koretic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkoretic/node-profiling/issues"
+  },
+  "homepage": "https://github.com/pkoretic/node-profiling#readme"
+}
