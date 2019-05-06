@@ -12,7 +12,7 @@ Install `v8-profiler`:
 
 Include `profilev8.js` as part of your program:
 ```
-require('./v8-profile.js')()
+require('./profilev8.js')()
 ```
 
 Now run your program.
@@ -35,7 +35,7 @@ server.listen(3000, 'localhost', () => {
   console.log('Server running')
 })
 
-require('./v8-profile.js')()
+require('./profilev8.js')()
 ```
 
 Now run it as:
