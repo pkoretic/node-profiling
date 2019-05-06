@@ -10,7 +10,7 @@ Install `v8-profiler`:
 
 ```npm install v8-profiler```
 
-Include `profilev8.js` as part of your program:
+Include [profilev8.js](profilev8.js) as part of your program:
 ```
 require('./profilev8.js')()
 ```
